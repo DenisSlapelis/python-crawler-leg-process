@@ -15,3 +15,11 @@ URLs disponíveis para teste: <br>
 * https://teste-optimum.s3-sa-east-1.amazonaws.com/processo1.html
 * https://teste-optimum.s3-sa-east-1.amazonaws.com/processo2.html
 * https://teste-optimum.s3-sa-east-1.amazonaws.com/processo3.html
+
+---
+Diagrama do projeto:<br>
+![diagrama](https://github.com/DenisSlapelis/python-crawler-leg-process/blob/master/diagrama.jpg?raw=true)
+
+---
+Dynamo com dados: <br>
+![dynamodb](https://github.com/DenisSlapelis/python-crawler-leg-process/blob/master/dynamodb.jpg?raw=true)
